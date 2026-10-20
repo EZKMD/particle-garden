@@ -1,0 +1,15 @@
+# Compiled executables
+/particles
+*.o
+*.out
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Editor temporary files
+*.swp
+*.swo
+
+# Local build directories
+build/
